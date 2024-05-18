@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Raed</h1>
-<h3 align="center">A passionate Computer science student from tunisia</h3>
+<h3 align="center">A passionate Computer Science student from Tunisia.</h3>
 
-<h3 align="left">Connect with me:www.linkedin.com/in/
-raed-touil-b244bb193
-</h3>
+- 🌱 I’m currently studiying at **"Ecole Nationale d'Ingenieurs de Sousse".**
+
+- 👨‍💻 All of my projects are available at [aa](aa)
+
+- 📫 How to reach me: **raed.touil@eniso.u-sousse.tn**
+
+<h3 align="left">Connect with me: www.linkedin.com/in/raed-touil-b244bb193</h3>
 <p align="left">
 </p>
 
